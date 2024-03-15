@@ -48,7 +48,7 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
+			<version>1.1.0</version>
 			<scope>provided</scope>
 		</dependency>
 
@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.218.174.108:8081/repository/paypal/</url>
+	      <url>http://18.218.174.108:8081/repository/paypal-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
