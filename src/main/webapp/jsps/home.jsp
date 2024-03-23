@@ -10,9 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to PZamora Web application Project.</h1>
-<h1 align="center">Welcome to PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies
-		Through hardwork and dedication we will make it. </h1>
+<h1 align="center">Welcome to PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies. I hope that by the time I am done with this session, I will master every technology listed on this page.
+		I believe I can do it, through hardwork and dedication. </h1>
 <hr>
+<span class="image main"><img src="images/Devops1.png" alt="" /></span>
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
@@ -62,23 +63,22 @@
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="images/Devops1.png" alt="" /></span>
 								<p>This landing page was very easy to create thanks to the teachings from Landmark Technology. Please continue to scroll down for some awesome dad jokes while checking out my <a href="#work">awesome work</a>.</p>
 								
-							</article>
+							
 
 						<!-- Work -->
 							<article id="work">
 								<h2 class="major">Work</h2>
 								<p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p>
-								<span class="image main"><img src="images/kube.png" alt="" /></span>
+									<span class="image main"><img src="images/kube.png" alt="" /></span>
 								
 
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
 								<p>Talk of running applications in containers on Kubernetes!!</article>
-								<span class="image main"><img src="images/apps.png" alt="" /></span>
+									<span class="image main"><img src="images/apps.png" alt="" /></span>
 								
 
 						<!-- Contact -->
