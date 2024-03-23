@@ -10,7 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to PZamora Web application Project.</h1>
-<h1 align="center">Welcome to PZamoraLabs. Through hardwork and dedication we will make it. </h1>
+<h1 align="center">Welcome to PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies
+		Through hardwork and dedication we will make it. </h1>
 <hr>
 <!DOCTYPE HTML>
 <!--
