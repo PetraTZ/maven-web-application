@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://172.31.27.95:9000/</sonar.host.url> 
+		<sonar.host.url>http://52.15.103.171:9000</sonar.host.url> 
 		<sonar.login>petra</sonar.login>
 		<sonar.password>admin~!@</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.218.174.108:8081/repository/paypal-releases/</url>
+	      <name>PzamoraLabs Releases Nexus Repository</name>
+	      <url>http://3.19.62.222:8081/repository/pzamoralabs-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.218.174.108:8081/repository/paypal-ss/</url>
+	      <name>PzamoraLabs Snapshot Nexus Repository </name>
+	      <url>http://3.19.62.222:8081/repository/pzamoralabs-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
