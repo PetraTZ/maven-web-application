@@ -8,12 +8,12 @@
 	
 	<version>3.0.2-SNAPSHOT</version> 
 	
-	<name>Testing maven-web-application</name>
+	<name>Pzamoralabs maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>PzamoraLabs</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
