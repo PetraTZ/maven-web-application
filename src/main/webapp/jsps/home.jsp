@@ -44,8 +44,7 @@
 								<h1>Dimension</h1>
 								<p><!--[-->Welcome to PZamora Labs designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br />
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
-								<p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p>
-								<span class="image main"><img src="images/kube.png" alt="" /></span>
+								
 							</div>
 						</div>
 						<nav>
@@ -61,8 +60,7 @@
 
 				<!-- Main -->
 					<div id="main">
-						<p>Talk of running applications in containers on Kubernetes!!</article>
-						<span class="image main"><img src="images/apps.png" alt="" /></span>
+						
 						<!-- Intro -->
 							<article id="intro">
 								<h2 class="major">Intro</h2>
@@ -72,6 +70,8 @@
 
 						<!-- Work -->
 							<h2 class="major">Work</h2>
+							<p>Talk of running applications in containers on Kubernetes!!</article>
+							<span class="image main"><img src="images/apps.png" alt="" /></span>
 							
 								
 									
@@ -79,6 +79,8 @@
 
 						<!-- About -->
 							<h2 class="major">About</h2>
+							<p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p>
+							<span class="image main"><img src="images/kube.png" alt="" /></span>
 							
 								
 								
