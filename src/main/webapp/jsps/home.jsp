@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>PzamoraLabs- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/bg.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -37,15 +37,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:pzamoralabs@gmail.com">Mail to PZamoraLabs</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center> PZamoraLabs - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://pzamoralabs.com/">PZamoraLabs</a> </small></p>
 
 </body>
 </html>
