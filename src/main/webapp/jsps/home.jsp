@@ -68,17 +68,18 @@
 							
 
 						<!-- Work -->
-							<article id="work">
-								<h2 class="major">Work</h2>
-								<p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p>
-									<span class="image main"><img src="images/kube.png" alt="" /></span>
+							<h2 class="major">Work</h2>
+							<span class="image main"><img src="images/kube.png" alt="" /></span>
+							<p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p>
+								
+									
 								
 
 						<!-- About -->
-							<article id="about">
-								<h2 class="major">About</h2>
-								<p>Talk of running applications in containers on Kubernetes!!</article>
-									<span class="image main"><img src="images/apps.png" alt="" /></span>
+							<h2 class="major">About</h2>
+							<p>Talk of running applications in containers on Kubernetes!!</article>
+							<span class="image main"><img src="images/apps.png" alt="" /></span>
+								
 								
 
 						<!-- Contact -->
