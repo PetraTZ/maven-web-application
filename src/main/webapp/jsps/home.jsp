@@ -32,10 +32,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Canada
+                PzamoraLabs, LLC, 
+		Dallas, TX
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		pzamoralabs@gmail.com
 		<br>
 		<a href="mailto:pzamoralabs@gmail.com">Mail to PZamoraLabs</a>
 	</span>
