@@ -49,8 +49,9 @@ p {
 							<div class="inner">
 								<h1 align="center">Nothing in Life is ever truly Free!</h1>
 								<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
-								<align="right"!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
-								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
+								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
+<hr>								
+<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
 								
 							</div>
 						</div>
@@ -89,7 +90,7 @@ p {
 
 						<!-- About -->
 							<h2 align="center" class="major">About</h2>
-							<head>
+							<head align="center">
 							<h2 align="center"><p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p></h2>
 							<span class="image main"><img src="images/kube.png" alt="" /></span>
 							<head>
