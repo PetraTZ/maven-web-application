@@ -49,7 +49,7 @@ p {
 							<div class="inner">
 								<h1 align="center">Nothing in Life is ever truly Free!</h1>
 								<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
-								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
+								<align="right"!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
 								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
 								
 							</div>
@@ -70,28 +70,30 @@ p {
 						
 						<!-- Intro -->
 							<article id="intro">
-								<h3 class="major">Intro</h3>
+								<h2 align="center"class="major">Intro</h2>
 								<h2><p>This landing page was very easy to create thanks to the teachings from Landmark Technology. Please continue to scroll down for some awesome devops dad jokes while checking out my <a href="#work">awesome work</a>.</p><h/2>
 								
 							
 
 						<!-- Work -->
-							<h2 class="major">Work</h2>
+							<h2 align="center" class="major">Work</h2>
 							<head>
 							<h2 align= "center" ><p>Talk of running applications in containers on Kubernetes!!</article></h2>
+							<span class="image main"><img src="images/apps.png" alt="" /></span>
 							<head>
-							<span class="image main" align="center"><img src="images/apps.png" alt="" /></span>
+							
 							
 								
 									
 								
 
 						<!-- About -->
-							<h2 class="major">About</h2>
+							<h2 align="center" class="major">About</h2>
 							<head>
 							<h2 align="center"><p>When they told you all you needed was a YAML file to master the Kubernetes deployment.</p></h2>
+							<span class="image main"><img src="images/kube.png" alt="" /></span>
 							<head>
-							<span class="image main" align="center"><img src="images/kube.png" alt="" /></span>
+							
 							
 								
 								
