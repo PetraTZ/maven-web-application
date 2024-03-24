@@ -2,7 +2,11 @@
 <%@ page import="java.net.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<body background="../<img src="images/bg.jpg">
+<style>
+p {
+  background-image src="images/infoedge.jpg" alt;
+}
+</style>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>PzamoraLabs- Home Page</title>
@@ -10,7 +14,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to PZamora Web application Project.</h1>
+<h1 align="center"><style="border:2px solid Violet;">Welcome to PZamora Web application Project.</h1>
 <h3 align="center"><FONT COLOR="#FF0000">Welcome to PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies. I hope that by the time I am done with this lifechanging course, I will master every technology listed on this page.
 		I believe I can do it, through hardwork and dedication. </FONT></h3>
 <hr>
