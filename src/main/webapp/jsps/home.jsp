@@ -47,10 +47,10 @@ p {
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>IT is my breakthrough</h1>
-								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
+								<h1>Information Technology is my breakthrough</h1>
 								<p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br />
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
+								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
 								
 							</div>
 						</div>
