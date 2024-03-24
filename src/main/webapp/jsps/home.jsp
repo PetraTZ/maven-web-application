@@ -27,6 +27,7 @@ p {
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+<h1 align="center"<p id="svg-para">Work Hard because nothing in life is every truly free!</p></h1>
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
   </head>
@@ -57,7 +58,7 @@ p {
 							<div class="inner">
 
 
-  <h1 align="center"<p id="svg-para">Work Hard because nothing in life is every truly free!</p></h1>
+  
 <h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>  
 <hr>								
