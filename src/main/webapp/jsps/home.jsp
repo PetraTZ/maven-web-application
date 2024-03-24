@@ -47,11 +47,35 @@ p {
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1 align="center">Work Hard because nothing in life is ever truly free!</h1>
-								<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
-								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
+<div id="container">
+
+  <!--Element for spinner made with HTML + CSS-->
+  <div id="html-spinner"></div>
+  <p id="html-para">Spinner created with only HTML and CSS</p>
+
+  <!--Element for custom SVG spinner-->
+  <svg id="svg-spinner" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <circle cx="24" cy="4" r="4" fill="#fff"/>
+  <circle cx="12.19" cy="7.86" r="3.7" fill="#fffbf2"/>
+  <circle cx="5.02" cy="17.68" r="3.4" fill="#fef7e4"/>
+  <circle cx="5.02" cy="30.32" r="3.1" fill="#fef3d7"/>
+  <circle cx="12.19" cy="40.14" r="2.8" fill="#feefc9"/>
+  <circle cx="24" cy="44" r="2.5" fill="#feebbc"/>
+  <circle cx="35.81" cy="40.14" r="2.2" fill="#fde7af"/>
+  <circle cx="42.98" cy="30.32" r="1.9" fill="#fde3a1"/>
+  <circle cx="42.98" cy="17.68" r="1.6" fill="#fddf94"/>
+  <circle cx="35.81" cy="7.86" r="1.3" fill="#fcdb86"/>
+</svg>
+  <h1 align="center"<p id="svg-para">Work Hard because nothing in life is every truly free!</p></h1>
+<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
+								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>  
 <hr>								
 <span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
+</div>
+</div>
+								
+								
+
 								
 							</div>
 						</div>
