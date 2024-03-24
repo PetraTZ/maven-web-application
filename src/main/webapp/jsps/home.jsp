@@ -15,7 +15,7 @@ p {
 </head>
 </head>
 <body>
-<h1 align="center"><style="border:2px solid Violet;">Welcome to PZamora Info Edge Web application Project.</style></h1>
+<h1 align="center" style="border:2px solid Violet;">Welcome to PZamora Info Edge Web application Project.</h1>
 <h3 align="center"><FONT COLOR="#FF0000">This is the home page of PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies.   I hope that by the time I am done with this lifechanging course, I will master every technology listed on this page.
 			 I believe I can do it, through hardwork and dedication. </FONT></h3>
 <hr>
@@ -47,7 +47,7 @@ p {
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Information Technology is my breakthrough</h1>
+								<h1>Nothing in Life is ever truly Free!</h1>
 								<p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br />
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
 								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
