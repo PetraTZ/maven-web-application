@@ -2,6 +2,7 @@
 <%@ page import="java.net.*" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+</body>
 <style>
 p {
   background-image src="images/infoedge.jpg" alt;
@@ -47,6 +48,7 @@ p {
 						<div class="content">
 							<div class="inner">
 								<h1>Dimension</h1>
+								<span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
 								<p><!--[-->Welcome to PZamora Labs designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br />
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
 								
