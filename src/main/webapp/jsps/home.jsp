@@ -47,7 +47,7 @@ p {
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1 align="center">Nothing in Life is ever truly Free!</h1>
+								<h1 align="center">Work Hard because nothing in life is ever truly free!</h1>
 								<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>
 <hr>								
