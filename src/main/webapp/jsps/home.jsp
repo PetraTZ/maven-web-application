@@ -27,6 +27,14 @@ p {
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="gradient" />
+ </body>
+</html>
+<html>
 	<head>
 		<title>Welcome</title>
 		<meta charset="utf-8" />
@@ -154,23 +162,7 @@ p {
 									<h4>Blockquote</h4>
 									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
 									<h4>Preformatted</h4>
-<div id="container">
-	<div class="steam" id="steam1"> </div>
-	<div class="steam" id="steam2"> </div>
-	<div class="steam" id="steam3"> </div>
-	<div class="steam" id="steam4"> </div>
-
-	<div id="cup">
-		<div id="cup-body">
-			<div id="cup-shade"></div>
-		</div>
-		<div id="cup-handle"></div>
-	</div>
-
-	<div id="saucer"></div>
-
-	<div id="shadow"></div>
-</div>									<pre><code>i = 0;
+							<pre><code>i = 0;
 
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
