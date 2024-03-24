@@ -1,0 +1,39 @@
+// Create a tesla webapp Jenkins scripted pipeline job to build and deploy applications
+node {
+    def mavenHome = tool name: 'maven'
+    stage('1.clonecode') {
+        git 'https://github.com/PetraTZ/maven-web-application'
+    // git credentialsId: 'gitcredentials', url: 'https://github.com/PetraTZ/maven-web-application.git'
+    //  sh "git clone https://github.com/PetraTZ/maven-web-application.git"
+    //  bat "git clone https://github.com/PetraTZ/maven-web-application.git"
+    }
+    stage('2.mavenBuild') {
+        sh "${mavenHome}/bin/mvn package"
+    }
+    stage('3.codeQualityAnalysis') {
+        sh "${mavenHome}/bin/mvn sonar:sonar"
+    }
+    stage('4.uploadArtifacts') {
+        sh "${mavenHome}/bin/mvn deploy"
+    }
+    stage('5.deploy2UAT') {
+        // generate pipeline syntax and use deploy to container in the post-build actions
+        deploy adapters: [tomcat9(credentialsId: 'tomcatcredentials', path: '', url: 'http://3.140.245.237:8080/')], contextPath: null, war: 'target/*war'
+    }
+    stage('6.ManualApproval') {
+        sh "echo 'Please review and approve' "
+        timeout(time:300, unit:'MINUTES')
+        {
+            input message: 'Application ready for deployment. Please review and approve.'
+        }
+    }
+    stage('7.deploy2prod') { }
+    stage('8.apm') {
+        sh "echo 'montoring and observation and alerting' "
+        sh "echo 'application performance Monitoring in progress' "
+    }
+    stage('9.notification') {
+        sh "echo 'create notification to resolve any issue that may arise'"
+        emailext body: 'That build and Deployment status for tesla applications', recipientProviders: [developers(), upstreamDevelopers()], subject: 'Job status', to: 'pzamoralabs@gmail.com'
+    }
+}
