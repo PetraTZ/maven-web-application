@@ -70,8 +70,8 @@ p {
 						
 						<!-- Intro -->
 							<article id="intro">
-								<h2 class="major">Intro</h2>
-								<p>This landing page was very easy to create thanks to the teachings from Landmark Technology. Please continue to scroll down for some awesome dad jokes while checking out my <a href="#work">awesome work</a>.</p>
+								<h3 class="major">Intro</h3>
+								<h2><p>This landing page was very easy to create thanks to the teachings from Landmark Technology. Please continue to scroll down for some awesome dad jokes while checking out my <a href="#work">awesome work</a>.</p><h/2>
 								
 							
 
