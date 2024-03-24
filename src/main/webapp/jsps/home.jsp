@@ -20,22 +20,16 @@ p {
 			 I believe I can do it, through hardwork and dedication. </FONT></h3>
 <hr>
 		<span class="image main"><img src="images/Devops1.png" alt="" /></span>
+<body>
+<h1 align="center"<p id="svg-para"><body style="background-color:powderblue;">Work Hard because nothing in life is every truly free!</p></h1>
+</body>
 <!DOCTYPE HTML>
 <!--
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-<h1 align="center"<p id="svg-para">Work Hard because nothing in life is every truly free!</p></h1>
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-  </head>
-  <body>
-    <div id="gradient" />
- </body>
-</html>
-<html>
+
 	<head>
 		<title>Welcome</title>
 		<meta charset="utf-8" />
@@ -59,7 +53,7 @@ p {
 
 
   
-<h2 align="center"><p><!--[-->Welcome to PZamora InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
+<h2 align="center"><p><!--[-->Welcome to my InfoEdge suite, designed by <a href="https://html5up.net">Petra Zamora</a> and released<!--]--><br /></h2>
 								<!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]--></p>  
 <hr>								
 <span class="image main"><img src="images/infoedge.jpg" alt="" /></span>
