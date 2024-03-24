@@ -16,8 +16,8 @@ p {
 </head>
 <body>
 <h1 align="center"><style="border:2px solid Violet;">Welcome to PZamora Info Edge Web application Project.</style></h1>
-<h3 align="center"><FONT COLOR="#FF0000">This is the home page of PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies. I hope that by the time I am done with this lifechanging course, I will master every technology listed on this page.
-		I believe I can do it, through hardwork and dedication. </FONT></h3>
+<h3 align="center"><FONT COLOR="#FF0000">This is the home page of PZamoraLabs. Designed By Petra Zamora, student of Landmark Technologies.   I hope that by the time I am done with this lifechanging course, I will master every technology listed on this page.
+			 I believe I can do it, through hardwork and dedication. </FONT></h3>
 <hr>
 <span class="image main"><img src="images/Devops1.png" alt="" /></span>
 <!DOCTYPE HTML>
