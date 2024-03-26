@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>PzamoraLabs Releases Nexus Repository</name>
+	      <name>tesla-release</name>
 	      <url>http://18.117.8.177:8081/repository/tesla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>PzamoraLabs Snapshot Nexus Repository </name>
+	      <name>tesla-snapshot</name>
 	      <url>http://18.117.8.177:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
