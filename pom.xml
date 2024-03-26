@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>tesla-release</name>
-	      <url>http://18.221.200.124:8081/repository/tesla-release/</url>
+	      <url>http://18.221.200.124:8081/repository/tesla-we-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla-snapshot</name>
-	      <url>http://18.221.200.124:8081/repository/tesla-snapshot/</url>
+	      <url>http://18.221.200.124:8081/repository/tesla-we-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
