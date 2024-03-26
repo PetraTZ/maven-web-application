@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>tesla-release</name>
-	      <url>http://18.117.8.177:8081/repository/tesla-release/</url>
+	      <url>http://18.117.8.177:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>tesla-snapshot</name>
-	      <url>http://18.117.8.177:8081/repository/tesla-snapshot/</url>
+	      <url>http://18.117.8.177:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
